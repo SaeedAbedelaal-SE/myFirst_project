@@ -3,12 +3,12 @@
 <suite name="suite1">
     <test name="test1">
         <classes>
-            <class name="firstTest"></class>
+            <class name="firstTest"/>
         </classes>
     </test>
     <test name="test2">
         <classes>
-            <class name="secondTest"></class>
+            <class name="secondTest"/>
         </classes>
     </test>
 </suite>
